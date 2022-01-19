@@ -1,7 +1,7 @@
 # TextEditorTrojanBackdoor
 
 ## Description:
-### Text Editor Trojan backdoor created for educational purposes.
+### Text Editor Trojan backdoor Python program created for educational purposes.
 
 ## Steps
 1. Execute netcat listener on attacker box.
