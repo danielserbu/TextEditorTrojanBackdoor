@@ -9,4 +9,7 @@
 3. Start Text Editor program on victim computer.
 4. Have fun.
 
+## Future improvements:
+- Enumerate and establish persistence (using secure channel)
+
 ![](demo.gif)
